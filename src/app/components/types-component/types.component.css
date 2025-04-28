@@ -1,0 +1,30 @@
+.divider {
+    background-color: #E2D9C8;
+    height: 100px;
+    margin: 0;
+    padding: 40px;
+}
+
+.divider-content {
+    margin: auto;
+    display: flex;
+    gap: 150px;
+    margin: auto;
+    width: fit-content;
+    
+}
+
+.divider-content p {
+    margin: 5px;
+    text-align: center;
+    font-size: 19px;
+    color: #655B51;
+}
+
+.divider svg {
+    width: 70px;
+    height: 70px;
+    fill: #655B51;
+    text-align: center;
+    margin-left: 10px;
+}

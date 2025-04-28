@@ -1,0 +1,14 @@
+<div class="product-card">
+    <div class="product-image">
+        <span class="material-symbols-outlined favorite-button">favorite</span>
+    </div>
+    <h2>{{name}}</h2>
+    <p>{{description}}</p>
+    <div class="card-buttons">
+        <p>RON: {{price}}</p>
+        <button (click)="orderProduct()">Order Now</button>
+    </div>
+
+</div>
+<router-outlet />
+  

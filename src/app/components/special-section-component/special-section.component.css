@@ -1,0 +1,17 @@
+.special-section {
+    background-color: #F1F0EE;
+    height: fit-content;
+    text-align: center;
+    padding: 40px 0 20px 0;
+}
+
+.section-cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.special-section h1 {
+    margin: 30px 0 25px 0;
+    font-size: 22px;
+}
